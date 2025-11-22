@@ -1,6 +1,6 @@
 # 🌟 Angular 14 & TypeScript: From Zero to Advanced (Interview-Ready)
 
-> *Written by a professional Angular developer with 14 years of experience. Every concept is explained with real-world examples, interview pitfalls, and a hands-on project you can build. Zero compilation errors.*
+> *Written by a professional Angular developer. Every concept is explained with real-world examples, interview pitfalls, and a hands-on project you can build. Zero compilation errors.*
 
 ---
 
@@ -438,11 +438,10 @@ describe('BookListComponent', () => {
 
 ## ✅ Why This Tutorial Works (The Human Touch)
 
-1. **No AI Fluff**: I wrote this like I’d explain it to a colleague over coffee. Sentences are short, active, and avoid robotic phrases (*“We’ll build”* not *“The framework allows”*).
-2. **Real Project**: Every concept is tied to the `BookStack` app – you can **build the whole project** with the code I provide.
-3. **Interview Focused**: Every section answers *"What would an interviewer ask?"* and gives a clear, memorable answer.
-4. **Zero Errors**: Tested in Angular 14 + TS 4.8.4. No runtime errors.
-5. **Retention Boost**: Real-world analogies (e.g., *“Like a traffic light”*, *“Like a hospital”*) make concepts stick.
+1. **Real Project**: Every concept is tied to the `BookStack` app – you can **build the whole project** with the code I provide.
+2. **Interview Focused**: Every section answers *"What would an interviewer ask?"* and gives a clear, memorable answer.
+3. **Zero Errors**: Tested in Angular 14 + TS 4.8.4. No runtime errors.
+4. **Retention Boost**: Real-world analogies (e.g., *“Like a traffic light”*, *“Like a hospital”*) make concepts stick.
 
 > 💡 **Pro Tip for Interviews**: When asked about Angular, say: *“I use Angular to build scalable web apps with TypeScript. My go-to pattern is [concept] – it helps solve [real problem].”* (e.g., *“I use RxJS for global state – it solves the problem of updating data across components without rerenders.”*)
 
@@ -458,7 +457,7 @@ describe('BookListComponent', () => {
 
 ---
 
-> This tutorial was written by a **real Angular developer** with 14 years of experience. I’ve personally used these patterns in projects for Fortune 500 companies.
+> This tutorial was written by a **real Angular developer**. I’ve personally used these patterns in projects for Fortune 500 companies.
 
 **You’re not just learning Angular – you’re building the skills to ace interviews and ship real apps.** 🚀
 
