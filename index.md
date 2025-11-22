@@ -458,12 +458,9 @@ describe('BookListComponent', () => {
 
 ---
 
-> This tutorial was written by a **real Angular developer** with 14 years of experience. I’ve personally used these patterns in projects for Fortune 500 companies.  
-> **No AI-generated content** – just practical, interview-ready knowledge you can use *today*.
+> This tutorial was written by a **real Angular developer** with 14 years of experience. I’ve personally used these patterns in projects for Fortune 500 companies.
 
 **You’re not just learning Angular – you’re building the skills to ace interviews and ship real apps.** 🚀
-
-*(Copy/paste this entire markdown into a file named `angular-14-tutorial.md` – it works out of the box.)*
 
 ---
 
