@@ -1,7 +1,3 @@
-
-
----
-
 # 🌟 Angular 14 & TypeScript: From Zero to Advanced (Interview-Ready)
 
 > *Written by a professional Angular developer with 14 years of experience. Every concept is explained with real-world examples, interview pitfalls, and a hands-on project you can build. Zero compilation errors.*
